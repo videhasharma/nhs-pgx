@@ -21,7 +21,6 @@ This short video explains the project:
 The non-profit openEHR community works directly with clinicians and other health and care professionals to define and then freely share the archetypes and templates, using tools that non-engineers can use to create and review the archetypes.
 
 
-
 ![](images/openehr-tools.png)
 
 ## Reviewing archetypes
@@ -42,9 +41,3 @@ The process is straightforward but you might find it helpful to watch this [Vide
 This [Reviewing archetypes](./CKM-001-%20Reviewing-an-Archetype-on-CKM.md) page might also be helpful.
 
 When reviewing archetypes, remember that these are not 'forms' as such - they are definitions of the information that sits beneath, so don't worry about the exact appearance.
-
-
-
-
-
-
