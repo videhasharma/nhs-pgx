@@ -10,7 +10,7 @@ To get started we need you to be registered with the NHS Pharmacogenetics projec
 
 Once you are registered, we will send an email to let you know when the reviews begin.
 
-This review is part of the NHS Pharmacogenetics project, which is [described here in more detail](https://apperta-ckm.github.io/msk-ortho-pathways/).
+This review is part of the NHS Pharmacogenetics project, which is [described here in more detail](https://Apperta-CKM.github.io/nhs-pgx/).
 
 If you are new to using CKM and reviewing archetypes you may find it helpful to view this page: [Reviewing Archetype Content](https://apperta-ckm.github.io/msk-ortho-pathways/CKM-001-%20Reviewing-an-Archetype-on-CKM/) or [watch this short video on the CKM Review process](https://apperta-ckm.github.io/msk-ortho-pathways/CKM-001-%20Reviewing-an-Archetype-on-CKM/).
 
