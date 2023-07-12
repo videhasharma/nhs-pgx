@@ -1,0 +1,30 @@
+site_name: Apperta CKM Review project
+theme:
+  name: material
+  logo: images/apperta-logo.png
+  favicon: images/apperta-logo.png
+  palette:
+    primary: blue grey
+    accent: teal 
+markdown_extensions:
+  - toc:
+      toc_depth : "1-1"
+  - admonition
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.inlinehilite
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true 
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde 
+  - codehilite
