@@ -1,10 +1,8 @@
-# Apperta MSK / Orthopaedic pathways
+# Apperta NHS Pharmacogenetics archetype reviews
 
 ## Introduction
 
-This project aims to build and publish a number of openEHR archetypes and templates, relating to the kind of clinical and patient-recorded information associated with a typical MSK/ Orthopaedic pathway/journey, and used for example in the [openOutcomes application].
-
-The initial focus will be on PROMS (Patient Reported Outcome Measures), with the ultimate aim of having these re-published by openEHR International.
+This project aims to build and publish a number of openEHR archetypes and templates which relate to Pharmacogenetics, to support decision support in frontline clinical systems with the ultimate aim of having these re-published by openEHR International.
 
 ## openEHR archetypes and templates
 
@@ -15,7 +13,7 @@ Archetypes are definitions of components of information to be stored in a health
 ![](./images/openehr-archetypes.png)
 
 ###
-This short video explains one the archetypes under review - the MSK-HQ score.
+This short video explains the project:
 
 <div style="padding:49.73% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/840448757?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Kanthan_MSK_HQ_Overview_CKM"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
@@ -28,7 +26,7 @@ The non-profit openEHR community works directly with clinicians and other health
 
 ## Reviewing archetypes
 
-Building archetypes is normally done by clinical informatics but they need to be reviewed by specialists in the subject, in this case people with a knowledge of MSK and Orthopaedics pathways.
+Building archetypes is normally done by clinical informatics but they need to be reviewed by specialists in the subject, in this case people with a knowledge of Pharmacogenetics.
 
 We use a special tool called 'Clinical Knowledge Manager' for this purpose, inviting people to review the archetype on-line.
 
