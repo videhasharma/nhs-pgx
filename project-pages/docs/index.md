@@ -6,7 +6,9 @@ This project aims to build and publish a number of openEHR archetypes and templa
 
 ## openEHR archetypes and templates
 
-For those not familiar with openEHR, this [short introductory video](https://youtu.be/uWBAeu464rM?t=62) may be helpful - watch until about 15m 20s.
+I you are not familiar with openEHR, this short intro may be helpful - watch until about 15m 20s.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uWBAeu464rM?start=85&end=906" title="openEHR Intro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Archetypes are definitions of components of information to be stored in a healthcare record or application. For example how to record a blood pressure, or a diagnosis, or a specific PROM like EQ-5D.
 
