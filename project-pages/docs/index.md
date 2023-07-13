@@ -1,8 +1,10 @@
-# Apperta NHS Pharmacogenetics archetype reviews
+# Apperta NHS Pharmacogenomics data models reviews
 
 ## Introduction
 
-This project aims to build and publish a number of openEHR archetypes and templates which relate to Pharmacogenetics, to support decision support in frontline clinical systems with the ultimate aim of having these re-published by openEHR International.
+This project aims to build and publish a number of open data models for the storage of pharmacogenomics data. We are using the 'openEHR' standard for this, with a view of standardise pharmacogenomic data so healthcarer providers can implement clinical decision support systems and personalise the prescribing of medicines at scale. This short animation explains the rationale for the project.
+
+Once reviewed and validated by an international community, including input from the Global Alliance for Genomics and Health (GA4GH), the model will be published by openEHR International.
 
 ## openEHR archetypes and templates
 
@@ -14,10 +16,6 @@ Archetypes are definitions of components of information to be stored in a health
 
 ![](./images/openehr-archetypes.png)
 
-###
-This short video explains the project:
-
-<div style="padding:49.73% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/840448757?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Kanthan_MSK_HQ_Overview_CKM"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 ###
 The non-profit openEHR community works directly with clinicians and other health and care professionals to define and then freely share the archetypes and templates, using tools that non-engineers can use to create and review the archetypes.
