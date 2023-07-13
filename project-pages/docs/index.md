@@ -27,7 +27,7 @@ The non-profit openEHR community works directly with clinicians and other health
 
 ## Reviewing archetypes
 
-Building archetypes is normally done by clinical informatics but they need to be reviewed by specialists in the subject, in this case people with a knowledge of Pharmacogenetics.
+Building archetypes is normally done by clinical informatics but they need to be reviewed by specialists in the subject, in this case, people with a knowledge of Pharmacogenetics.
 
 We use a special tool called 'Clinical Knowledge Manager' for this purpose, inviting people to review the archetype on-line.
 
