@@ -6,7 +6,7 @@ This project aims to build and publish a number of openEHR archetypes and templa
 
 ## openEHR archetypes and templates
 
-I you are not familiar with openEHR, this short intro may be helpful - watch until about 15m 20s.
+If you are not familiar with openEHR, this short intro may be helpful - watch until about 15m 20s.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uWBAeu464rM?start=85&end=906" title="openEHR Intro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
