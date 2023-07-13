@@ -12,7 +12,7 @@ If you are not familiar with openEHR, this short intro may be helpful - watch un
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uWBAeu464rM?start=85&end=906" title="openEHR Intro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Archetypes are definitions of components of information to be stored in a healthcare record or application. For example how to record a blood pressure, or a diagnosis, or a specific PROM like EQ-5D.
+Archetypes are definitions of components of information to be stored in a healthcare record or application. For example how to record a blood pressure, or a diagnosis, or a specific test result, such as a pharmacogenomic panel test. 
 
 ![](./images/openehr-archetypes.png)
 
@@ -25,7 +25,7 @@ The non-profit openEHR community works directly with clinicians and other health
 
 ## Reviewing archetypes
 
-Building archetypes is normally done by clinical informatics but they need to be reviewed by specialists in the subject, in this case, people with a knowledge of Pharmacogenetics.
+Building archetypes is normally done by clinical informatics but they need to be reviewed by specialists in the subject, in this case, people with a knowledge of pharmacogenomics.
 
 We use a special tool called 'Clinical Knowledge Manager' for this purpose, inviting people to review the archetype on-line.
 
